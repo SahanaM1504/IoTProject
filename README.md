@@ -1,2 +1,4 @@
 # IoTProject
 CDAC IoT Project work
+
+As we have seen many news related to accidents caused by cylinder blast due to leakage. This project prevails about such problems and provides safety to customers. Based on the identification of LPG level i.e. when reached threshold point it send SMS to registered phone and it alert the person which informs amount of remaining gas usage, so there by user can minimal the LPG usage, apart from this we will create an App, which contains the LPG usage details every day. This significantly help user to plan the usage of LPG. Also it turns off the regulator valve so that gas emission stops and leakage can be controlled. In household when gas cylinder goes empty it causes difficulty in cooking so, to resolve this problem we are using SMS API, which automatically send’s SMS to nearest gas agency or the agency which user has already agreed, so that gas delivery is done on time.
